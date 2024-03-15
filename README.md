@@ -1,5 +1,4 @@
-# Aditya-Shinde
-# Aditya Shinde
+# Hi, I am Aditya-Shinde
 
 🚀 Full-Stack Developer | ReactJS, NodeJS | AWS Enthusiast  
 🎓 B.Tech from IIIT Kottayam, CGPA: 8.95  
