@@ -16,17 +16,17 @@ I'm Aditya Shinde, a dedicated Full-Stack Developer with a strong passion for bu
 
 ### Betahacks Official Website
 - **Tech Stack:** ReactJS, NodeJS, TypeScript, MongoDB, AWS
-- **Link:** [Betahacks Official Website](#)
+- **Link:** [Betahacks Official Website](https://betahacks-community-dev.onrender.com/)
 - **Description:** Built the official Cyber Community website with features like secure Authentication, Blogs CRUD, and an intuitive upvote system. Continuously improving and maintaining the platform to meet the dynamic needs of cybersecurity enthusiasts.
 
 ### Flee Portal- Institute’s Outpass System
 - **Tech Stack:** ReactJS, NodeJS, TypeScript, MongoDB
-- **Link:** [Flee Portal- Institute’s Outpass System](#)
+- **Link:** [Flee Portal- Institute’s Outpass System](https://outpass.iiitkottayam.ac.in/app)
 - **Description:** Spearheaded the continuous maintenance and improvement of the biometric-based outpass management system, reducing 90% physical efforts.
 
 ### Agro-Connect
 - **Tech Stack:** Solidity, ReactJS, Django, Firebase
-- **Link:** [Agro-Connect](#)
+- **Link:** [Agro-Connect](https://github.com/adityasshinde/Agro-Connect-Full-Project)
 - **Description:** Led the development as the Frontend developer and designer, achieving a 90 percent efficiency solution with a dedicated team of 5 members.
 
 ## Technical Skills
